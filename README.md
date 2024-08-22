@@ -1,1 +1,1 @@
-![PyPI - License](https://img.shields.io/pypi/l/:packageName)
+![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
