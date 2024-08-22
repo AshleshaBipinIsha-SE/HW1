@@ -1,1 +1,1 @@
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/:user/:repo)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/Django)
