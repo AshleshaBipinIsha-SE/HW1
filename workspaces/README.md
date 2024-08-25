@@ -1,2 +1,3 @@
 ![Static Badge](https://img.shields.io/badge/Language-Python-yellow)
-![example workflow](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Static Badge](https://img.shields.io/badge/License-GNU%20GENERAL%20PUBLIC-red)
+![Static Badge](https://img.shields.io/badge/Platform-Linux-blue)
