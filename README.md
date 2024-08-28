@@ -3,5 +3,7 @@
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-blue)
 ![example workflow](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/python-app.yml/badge.svg)
 <img src="[https://github.com/AshleshaBipinIsha-SE/workspaces/HW1/coverage.svg]">
+<img src="./coverage.svg">
+
 
 
