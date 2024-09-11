@@ -16,10 +16,16 @@ def merge_sort(input_array):
     Returns:
         list: The sorted list.
     """
-    if len(input_array) == 1:
+    if len(input_array) <= 1:
         return input_array
 
     half = len(input_array) // 2
+
+    # left_sorted = merge_sort(input_array[:half])
+    # right_sorted = merge_sort(input_array[half:])
+
+    # print(f"Left sorted: {left_sorted}")
+    # print(f"Right sorted: {right_sorted}")
 
     return recombine(merge_sort(
         input_array[:half]), merge_sort(input_array[half:]))
@@ -53,6 +59,9 @@ def recombine(left_arr, right_arr):
 
     for i in range(left_index, len(left_arr)):
         merged_arr[left_index + right_index] = left_arr[i]
+    # Check for None values and remove them if necessary
+    merged_arr = [x for x in merged_arr if x is not None]
+    # print(f"Merged array: {merged_arr}")
 
     return merged_arr
 
