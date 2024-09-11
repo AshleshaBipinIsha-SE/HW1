@@ -1,0 +1,6 @@
+[file:./rand.py]
+--->  3 issue(s) to fix {'W291': {2}, 'E302': {8}, 'E501': {21}}
+--->  1 issue(s) to fix {'E501': {22}}
+[file:./Hw2_debugging.py]
+--->  3 issue(s) to fix {'E501': {24, 2, 59}}
+--->  1 issue(s) to fix {'E501': {2}}
