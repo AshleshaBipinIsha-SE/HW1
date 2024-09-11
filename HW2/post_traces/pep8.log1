@@ -4,3 +4,7 @@
 [file:./Hw2_debugging.py]
 --->  3 issue(s) to fix {'E501': {24, 2, 59}}
 --->  1 issue(s) to fix {'E501': {2}}
+[file:./rand.py]
+--->  1 issue(s) to fix {'E501': {22}}
+[file:./Hw2_debugging.py]
+--->  1 issue(s) to fix {'E501': {2}}
