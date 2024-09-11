@@ -1,5 +1,6 @@
 """
-This module implements the merge sort algorithm and a helper function to merge two arrays.
+This module implements the merge sort algorithm and a helper function
+to merge two arrays.
 It also integrates the use of the `rand` module to generate random arrays.
 """
 

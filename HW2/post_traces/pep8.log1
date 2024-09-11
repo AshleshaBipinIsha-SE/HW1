@@ -1,10 +1,14 @@
 [file:./rand.py]
---->  3 issue(s) to fix {'W291': {2}, 'E302': {8}, 'E501': {21}}
 --->  1 issue(s) to fix {'E501': {22}}
 [file:./Hw2_debugging.py]
---->  3 issue(s) to fix {'E501': {24, 2, 59}}
---->  1 issue(s) to fix {'E501': {2}}
+--->  5 issue(s) to fix {'E302': {11, 3}, 'E226': {7}, 'E305': {31}, 'W391': {36}}
+--->  1 issue(s) to fix {'E225': {8}}
+--->  0 issue(s) to fix {}
 [file:./rand.py]
 --->  1 issue(s) to fix {'E501': {22}}
-[file:./Hw2_debugging.py]
+[file:./hw2_debugging.py]
 --->  1 issue(s) to fix {'E501': {2}}
+[file:./rand.py]
+--->  0 issue(s) to fix {}
+[file:./hw2_debugging.py]
+--->  0 issue(s) to fix {}
