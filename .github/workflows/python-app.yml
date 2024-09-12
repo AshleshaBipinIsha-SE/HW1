@@ -37,5 +37,6 @@ jobs:
     - name: Test with pytest
       run: |
         autopep8 -i -a -r -r -v .&>> HW2/post_traces/pep8.log1
+        cat HW2/post_traces/pep8.log1
         pytest test1.py test2.py
         
