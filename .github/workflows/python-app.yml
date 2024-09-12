@@ -36,9 +36,9 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        autopep8 -i -a -r -r -v .&
-        pylint --recursive=y .&
-        pyright --verbose .&
+        ./HW2/autopep8 -i -a -r -r -v .&
+        ./HW2/pylint --recursive=y .&
+        ./HW2/pyright --verbose .&
     
 
         
