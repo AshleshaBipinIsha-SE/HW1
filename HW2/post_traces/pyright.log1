@@ -34,7 +34,7 @@ pyright 1.1.380
 Completed in 1.007sec
 Auto-excluding **/node_modules
 Auto-excluding **/__pycache__
-Auto-excluding **/.*
+Auto-excluding **/.*pyright
 Search paths for file:///workspaces/HW1/HW2
   /home/codespace/.cache/pyright-python/1.1.380/node_modules/pyright/dist/typeshed-fallback/stdlib
   /workspaces/HW1/HW2
