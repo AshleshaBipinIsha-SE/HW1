@@ -38,7 +38,7 @@ jobs:
       run: |
         autopep8 -i -a -r HW2 -v 
         pylint HW2
-        pyright --verbose HW2 
+        pyright HW2 
     
 
         
