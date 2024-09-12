@@ -36,7 +36,7 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        ls
-        pwd
+        autopep8 -i -a -r -r -v .&
+        autopep8 -i -a -r -r -v .&>> HW2/post_traces/pep8.log1
         pytest test1.py test2.py
         
