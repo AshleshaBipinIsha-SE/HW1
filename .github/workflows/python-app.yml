@@ -36,10 +36,9 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        autopep8 -i -a -r -r -v .&>> HW2/post_traces/pep8.log1
+        autopep8 -i -a -r -r -v .&
+        pylint --recursive=y .&
+        pyright --verbose .&
         pytest test1.py test2.py
-      uses: stefanzweifel/git-auto-commit-action@v4
-      with:
-        commit_message: Updated logs
 
         
