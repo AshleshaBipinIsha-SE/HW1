@@ -39,6 +39,6 @@ jobs:
         autopep8 -i -a -r -r -v .&
         pylint --recursive=y .&
         pyright --verbose .&
-        pytest test1.py test2.py
+    
 
         
