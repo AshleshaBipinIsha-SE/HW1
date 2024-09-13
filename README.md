@@ -5,6 +5,7 @@
 <img src="./coverage.svg">
 [![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml)
 [![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pylint.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pylint.yml)
+[![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pyright.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pyright.yml)
 
 ## Acknowledgements
 
