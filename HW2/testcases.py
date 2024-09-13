@@ -1,5 +1,5 @@
+"""importing merge sort module"""
 from hw2_debugging import merge_sort
-"""importing merge sort"""
 
 def test_merge_sort_empty_array():
     """Testing for an empty array"""
