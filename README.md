@@ -4,8 +4,7 @@
 ![example workflow](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/python-app.yml/badge.svg)
 <img src="./coverage.svg">
 [![PEP8](https://img.shields.io/badge/code%20style-pep8-orange.svg)](https://www.python.org/dev/peps/pep-0008/)
-[![PEP8](https://img.shields.io/github/workflow/status/AshleshaBipinIsha-SE/HW1/repository/pep8)](https://github.com/AshleshaBipinIsha-SE/HW1/repository/actions/workflows/pep8.yml)
-
+[![PEP8](https://img.shields.io/github/workflow/status/AshleshaBipinIsha-SE/HW1/pep8)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml)
 
 ## Acknowledgements
 
