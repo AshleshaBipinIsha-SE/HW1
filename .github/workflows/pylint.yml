@@ -18,7 +18,7 @@ jobs:
           pip install pylint
       - name: Run pylint
         run: |
-          pylint my_package > pylint-report.txt || true
+          pylint Hw2 > pylint-report.txt || true
       - name: Upload pylint report
         uses: actions/upload-artifact@v3
         with:
