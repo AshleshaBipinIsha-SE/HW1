@@ -18,7 +18,7 @@ jobs:
           pip install pycodestyle
       - name: Run pep8
         run: |
-          pycodestyle my_package > pep8-report.txt || true
+          pycodestyle HW2 > pep8-report.txt || true
       - name: Upload pep8 report
         uses: actions/upload-artifact@v3
         with:
