@@ -4,7 +4,7 @@
 ![example workflow](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/python-app.yml/badge.svg)
 <img src="./coverage.svg">
 [![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml)
-[![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pyright.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pyright.yml)
+[![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pylint.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pylint.yml)
 
 ## Acknowledgements
 
