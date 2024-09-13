@@ -1,0 +1,26 @@
+name: Check Code Style
+
+on: [push, pull_request]
+
+jobs:
+  pep8:
+    name: Run pep8
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          pip install pycodestyle
+      - name: Run pep8
+        run: |
+          pycodestyle my_package > pep8-report.txt || true
+      - name: Upload pep8 report
+        uses: actions/upload-artifact@v3
+        with:
+          name: pep8-report
+          path: pep8-report.txt
