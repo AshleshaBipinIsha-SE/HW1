@@ -1,4 +1,10 @@
 name: AutoPep8
+
+on: [push, pull_request]
+
+jobs:
+  pep8:
+    name: Run pep8    
     runs-on: ubuntu-latest
 
     steps:
