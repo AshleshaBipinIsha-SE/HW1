@@ -3,7 +3,6 @@
 ![Static Badge](https://img.shields.io/badge/Platform-Linux-blue)
 ![example workflow](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/python-app.yml/badge.svg)
 <img src="./coverage.svg">
-[![PEP8](https://img.shields.io/github/workflow/status/AshleshaBipinIsha-SE/HW1/.github/workflows/pep8/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/.github/workflows/actions/workflows/pep8.yml)
 [![PEP8](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml/badge.svg)](https://github.com/AshleshaBipinIsha-SE/HW1/actions/workflows/pep8.yml)
 
 ## Acknowledgements
